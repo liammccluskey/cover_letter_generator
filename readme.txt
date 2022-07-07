@@ -1,9 +1,5 @@
-# Bash Script for Generator custom cover letter PDF
-
-# TO RUN
-
-bash main.sh [job title] [company name]
-
-# OUTPUT
-
-PDF of custom cover letter
+1. Write cover letter on google docs
+2. Ctrl-f $POSITION and $COMPANY
+3. Replace with appropriate position and company names
+4. Save as PDF
+5. Done
